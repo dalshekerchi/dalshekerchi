@@ -4,7 +4,7 @@
 My name is   <img alt="GIF" src="https://github.com/dalshekerchi/dalshekerchi/blob/main/name2.gif" width= "6%" height= "10%" />, and I'm a Software Engineer from Toronto 🇨🇦
 
 
-🎓 Pursuing a Computer Science degree at the University of Toronto <img alt="GIF" src="https://cdn4.iconfinder.com/data/icons/landmark-color/256/2-512.png" width= "3%" height= "100%" />
+🎓 Pursuing a  Computer Science degree at the University of Toronto <img alt="GIF" src="https://cdn4.iconfinder.com/data/icons/landmark-color/256/2-512.png" width= "3%" height= "100%" />
 
 💻 Previously, I have worked at PSI Technologies as a Software Developer, where I introduced custom styling support and improved codebase modularity. Currently, I work at Prodigy as a Full Stack Developer, where I will be expanding my skills in ReactJS, NodeJS, and Typescript
 
