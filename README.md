@@ -6,7 +6,7 @@ My name is   <img alt="GIF" src="https://github.com/dalshekerchi/dalshekerchi/bl
 
 🎓 Pursuing a Computer Science degree at the University of Toronto <img alt="GIF" src="https://cdn4.iconfinder.com/data/icons/landmark-color/256/2-512.png" width= "3%" height= "100%" />
 
-💻 Previously, I have worked at PSI Technologies as a Software Developer, where I introduced custom styling support and improved codebase modularity. Currently, I work at Prodigy as a Full Stack Developer, where I will be expanding my skills in ReactJS, NodeJS, and Typescript
+💻 Previously, I have worked at Prodigy as a Full Stack Developer, where I built WebSocket-based features for a new multiplayer service using Node.js and SocketCluster backed by a Redis database. Currently, I work at Wealthsimple as a Software Engineer, where I use Kotlin and Apache Flink to calculate and display balances and returns on the app
 
 
 
